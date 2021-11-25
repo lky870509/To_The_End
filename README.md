@@ -14,3 +14,6 @@ To the End는 불이 사라진 세상 속에서 여신의 성물을 모아 여�
 
 가장 기본적으로 만날 수 있는 몬스터는 슬라임으로, AI화를 통해 자율적으로 이동합니다.
 ![슬라임 - 복사본](https://user-images.githubusercontent.com/26238493/143460259-99798f98-2df0-4612-a41c-908fdd5ace67.png)
+
+
+게임 소개 영상:https://youtu.be/yJnhsPUfAvY
